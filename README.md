@@ -78,3 +78,27 @@ The model can help businesses identify customers who are more likely to churn an
 - Scikit-learn
 - Jupyter Notebook
 - Streamlit
+
+
+## 📁 Project Structure
+
+```text
+Customer-Churn-Prediction/
+│
+├── customer_churn_prediction.ipynb
+│   └── Complete data analysis and machine learning workflow
+│
+├── Customer_churn.xlsx
+│   └── Customer churn dataset
+│
+├── Payment Method VS Churn.png
+│   └── Churn visualization
+│
+├── requirements.txt
+│   └── Python dependencies
+│
+├── README.md
+│   └── Project documentation
+│
+└── .gitignore
+    └── Files ignored by Gi
